@@ -15,11 +15,8 @@ Implement explainable AI (XAI) techniques (like SHAP or LIME) to better understa
 Conduct more extensive hyperparameter tuning and cross-validation to enhance model performance.
 
 Diagram (5 points)
-Here’s a simple flowchart of the AI Development Workflow, aligned with the CRISP-DM framework:
+Here’s a  flowchart of the AI Development Workflow, aligned with the CRISP-DM framework:
 
-diff
-Copy
-Edit
 +------------------------+
 | 1. Problem Definition  |
 +------------------------+
